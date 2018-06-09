@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OceanSystem", "OceanSystem\OceanSystem.csproj", "{AAA6943D-7BB3-47A8-8980-FB2527011738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OceanSystem.Tests", "OceanSystem.Tests\OceanSystem.Tests.csproj", "{92A86516-7CAB-4B04-8D9F-FE4D66925CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA6943D-7BB3-47A8-8980-FB2527011738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA6943D-7BB3-47A8-8980-FB2527011738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA6943D-7BB3-47A8-8980-FB2527011738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA6943D-7BB3-47A8-8980-FB2527011738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A86516-7CAB-4B04-8D9F-FE4D66925CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A86516-7CAB-4B04-8D9F-FE4D66925CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A86516-7CAB-4B04-8D9F-FE4D66925CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A86516-7CAB-4B04-8D9F-FE4D66925CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
